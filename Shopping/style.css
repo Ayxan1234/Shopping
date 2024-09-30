@@ -1,0 +1,398 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+section {
+    display: flex;
+}
+
+.anadiv {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+    margin: 0 auto;
+}
+
+nav ul {
+    display: flex;
+    gap: 30px;
+}
+
+li a {
+    color: black;
+    font-size: large;
+}
+
+li a:hover {
+    color: gray;
+}
+
+.color {
+    color: gray;
+}
+
+.body {
+    width: 100%;
+    height: 500px;
+    padding-top: 30px;
+}
+
+.body1 {
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.big1 {
+    color: gray;
+}
+
+.body1 img {
+
+    height: 300px;
+}
+
+.left {
+    font-size: large;
+}
+
+a {
+    color: gray;
+}
+
+.stars {
+    display: flex;
+}
+
+i {
+    font-size: smaller;
+}
+
+.body3 {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.aa {
+    display: flex;
+}
+
+.ana {
+    margin: 0 auto;
+}
+
+.ana1 {
+    width: 88%;
+    display: flex;
+    margin: 0 auto;
+}
+
+.big2 {
+    color: gray;
+}
+
+.img {
+    margin-top: 30px;
+}
+
+.ana2 {
+    width: 50%;
+}
+
+.top {
+    padding-top: 25px;
+    color: gray;
+}
+
+.top1 {
+    font-size: 32px;
+}
+
+.top2 {
+    font-size: 15px;
+    color: black;
+}
+
+.top3 {
+    padding-top: 25px;
+    color: gray;
+}
+
+.top4 {
+    padding-top: 25px;
+    color: gray;
+}
+
+.top5 {
+    margin-top: 30px;
+    width: 17%;
+    height: 40px;
+}
+
+.top5:hover {
+    color: white;
+    background-color: black;
+    transition: 0.5s;
+}
+
+.header1 {
+    width: 255px;
+    height: 255px;
+    background-color: #f8f8f8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.color2 {
+    color: grey;
+    margin: 15px;
+}
+
+.header img {
+    width: 255px;
+    height: 255px;
+    margin-top: 30px;
+}
+
+.header3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header3 img {
+    width: 255px;
+    height: 255px;
+    margin-left: 30px;
+}
+
+.header4 {
+    width: 255px;
+    height: 255px;
+    background-color: #f8f8f8;
+    margin-top: 30px;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.color3 {
+    color: gray;
+    margin: 15px;
+}
+
+.secbribe1 {
+    width: 70%;
+}
+
+.but {
+    font-size: 30px;
+}
+
+.but1 {
+    color: grey;
+    margin-top: 7px;
+}
+
+input {
+    width: 240px;
+    height: 44px;
+    margin-left: 30px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    margin: 30px 0;
+}
+
+.plane {
+    width: 50px;
+    height: 45px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+
+.secbribe3 {
+    display: flex;
+}
+
+.secbribe2 {
+    width: 15%;
+    padding-left: 30px;
+}
+
+.secbribe5 {
+    color: gray;
+}
+
+.contain1 {
+    color: gray;
+}
+
+h3 {
+    margin-top: 15px;
+}
+
+.log1 {
+    width: 100%;
+    background-color: #2a2a2a;
+    display: flex;
+    align-items: center;
+}
+
+.log2 {
+    color: white;
+}
+
+.log3 {
+    color: white;
+    margin-top: 15px;
+}
+
+.log4 {
+    color: white;
+    margin-top: 15px;
+}
+
+.log2:hover {
+    color: gray;
+    transition: 0.6s;
+}
+
+.log3:hover {
+    color: gray;
+    transition: 0.6s;
+}
+
+.log4:hover {
+    color: gray;
+    transition: 0.6s;
+}
+
+.white {
+    color: white;
+}
+
+.box9 {
+    display: flex;
+}
+
+.white1 {
+    color: white;
+}
+
+.white2 {
+    color: white;
+}
+
+.white3 {
+    color: white;
+}
+
+.white1:hover {
+    color: grey;
+    transition: 0.6s;
+}
+
+.white2:hover {
+    color: grey;
+    transition: 0.6s;
+}
+
+.white3:hover {
+    color: grey;
+    transition: 0.6s;
+}
+
+.box8 {
+    padding-left: 30px;
+}
+
+.col-log {
+    padding-left: 30px;
+    margin: auto;
+}
+
+.black{
+    color: white;
+}
+
+.black1 {
+    color: white;
+}
+
+.black2 {
+    color: white;
+}
+
+.black3 {
+    color: white;
+}
+.black4 {
+    color: white;
+}
+
+.black1:hover {
+    color: grey;
+    transition: 0.6s;
+}
+
+.black2:hover {
+    color: grey;
+    transition: 0.6s;
+}
+
+.black3:hover {
+    color: grey;
+    transition: 0.6s;
+}
+.colum{
+    color: white;
+}
+
+.colum1 {
+    color: white;
+}
+
+.colum2 {
+    color: white;
+}
+
+.colum3 {
+    color: white;
+}
+.colum4 {
+    color: white;
+}
+
+.colum1:hover {
+    color: grey;
+    transition: 0.6s;
+}
+
+.colum2:hover {
+    color: grey;
+    transition: 0.6s;
+}
+
+.colum3:hover {
+    color: grey;
+    transition: 0.6s;
+}
